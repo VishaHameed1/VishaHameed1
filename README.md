@@ -16,21 +16,17 @@
 
 ## 🧠 Tech Stack
 
-### 💻 Languages
+**💻 Languages**
+Python • C++ • C# • JavaScript • Java • Kotlin • PHP
 
-Python | C++ | C# | JavaScript | Java | Kotlin | PHP
+**📊 AI / ML**
+Scikit-learn • Pandas • NumPy • PyTorch • ML.NET
 
-### 📊 AI / ML
+**🌐 Development**
+Flask • MERN Stack • HTML • CSS • Android (Java/Kotlin)
 
-Scikit-learn | Pandas | NumPy | PyTorch | ML.NET
-
-### 🌐 Development
-
-Flask | MERN Stack | HTML | CSS | Android (Java/Kotlin)
-
-### ⚙️ Tools
-
-Git | GitHub | VS Code | Visual Studio | Jupyter Notebook
+**⚙️ Tools**
+Git • GitHub • VS Code • Visual Studio • Jupyter Notebook
 
 ---
 
@@ -84,11 +80,14 @@ Git | GitHub | VS Code | Visual Studio | Jupyter Notebook
 
 ## 📊 GitHub Analytics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=VishaHameed1\&show_icons=true\&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VishaHameed1&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishaHameed1&layout=compact&theme=radical" height="160"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VishaHameed1\&layout=compact\&theme=radical)
-
-![Streak](https://streak-stats.demolab.com/?user=VishaHameed1\&theme=radical)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=VishaHameed1&theme=radical" height="160"/>
+</p>
 
 ---
 
@@ -104,7 +103,7 @@ Git | GitHub | VS Code | Visual Studio | Jupyter Notebook
 ## 📫 Connect with Me
 
 * 🌐 GitHub: https://github.com/VishaHameed1
-* 📧 Email: your-email-here
+* 📧 Email: vishahameed111@gmail.com
 
 ---
 
