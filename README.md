@@ -127,7 +127,7 @@
   <a href="https://github.com/VishaHameed1">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github">
   </a>
-  <a href="www.linkedin.com/in/visha-hameed-a23202373">
+  <a href="https://www.linkedin.com/in/visha-hameed-a23202373">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin">
   </a>
 </p>
