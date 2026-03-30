@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Visha Hameed
 
-<!--
-**VishaHameed1/VishaHameed1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student | 🤖 Future AI Engineer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🌱 Learning Machine Learning & AI
+* 🔭 Building AI Projects
+* 🎯 Goal: Become AI Engineer
+
+---
+
+## 🛠️ Skills
+
+* Python, C++
+* Machine Learning
+* Flask, HTML, CSS
+
+---
+
+## 📌 Projects
+
+* Agentic AI Chatbot
+* ML Projects
+* Port Scanner
+
+---
+
+## 📫 Contact
+
+* GitHub: https://github.com/VishaHameed1
