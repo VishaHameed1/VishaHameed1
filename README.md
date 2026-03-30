@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Visha Hameed
 
-🎓 Computer Science Student | 🤖 Future AI Engineer
-💡 Passionate about Machine Learning, AI Systems & Real-World Projects
+🎓 Computer Science Student | 🤖 AI/ML Engineer in Progress
+💡 Building real-world AI systems, full-stack apps, and intelligent tools
 
 ---
 
 ## 🚀 About Me
 
-* 🌱 Currently learning: **Machine Learning & AI**
-* 🔭 Working on: **AI Chatbots & ML Projects**
+* 🌱 Exploring **Machine Learning, Deep Learning & Agentic AI**
+* 🔭 Building projects in **AI, Web, Mobile & Desktop Applications**
 * 🎯 Goal: Become a **Professional AI Engineer**
-* ⚡ Interests: Tech, Sports & Creativity
+* ⚡ Strong in **problem-solving, teamwork & leadership**
 
 ---
 
@@ -18,46 +18,77 @@
 
 ### 💻 Languages
 
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)
+Python | C++ | C# | JavaScript | Java | Kotlin | PHP
 
-### 📊 Machine Learning
+### 📊 AI / ML
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-orange?logo=scikitlearn)
-![Pandas](https://img.shields.io/badge/Pandas-black?logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy)
+Scikit-learn | Pandas | NumPy | PyTorch | ML.NET
 
 ### 🌐 Development
 
-![Flask](https://img.shields.io/badge/Flask-black?logo=flask)
-![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
+Flask | MERN Stack | HTML | CSS | Android (Java/Kotlin)
+
+### ⚙️ Tools
+
+Git | GitHub | VS Code | Visual Studio | Jupyter Notebook
 
 ---
 
 ## 📌 Featured Projects
 
-🔹 **Agentic AI Chatbot**
-Advanced chatbot with memory, reasoning & intelligent responses
+### 🤖 AI & Machine Learning
 
-🔹 **AI/ML Beginner Journey**
-Structured roadmap from Python → ML → AI systems
+* **Sentiment AI (C# + ML.NET)**
+  Real-time sentiment analysis using ML.NET Model Builder
 
-🔹 **Intermediate ML Projects**
-Fraud detection, loan prediction, clustering models
+* **CNN Image Classifier (PyTorch)**
+  Cat vs Dog classifier with data augmentation & dropout
 
-🔹 **Port Scanner Tool**
-Flask-based network analysis & port scanning system
+* **Movie Recommendation System**
+  Collaborative filtering using matrix factorization
+
+* **Intermediate ML Suite**
+  Fraud detection, loan prediction, clustering & forecasting
+
+---
+
+### 🌐 Full Stack & Web
+
+* **PropTrack (MERN Stack)**
+  Real estate platform with listings, filters & management system
+
+* **Port Scanner (Flask)**
+  Network security tool with traffic analysis & visualization
+
+---
+
+### 📱 Mobile Applications
+
+* **Smart Recipe Assistant (AI Powered)**
+  Uses Gemini AI with voice interaction (TTS/STT)
+
+* **Expense Tracker App**
+  Budget tracking with charts & analytics
+
+---
+
+### 💻 Desktop Applications
+
+* **Airline Reservation System**
+  GUI-based booking and management system
+
+* **Sentiment AI (Windows Forms)**
+  AI-powered desktop application
 
 ---
 
 ## 📊 GitHub Analytics
 
-![Visha's GitHub stats](https://github-readme-stats.vercel.app/api?username=VishaHameed1\&show_icons=true\&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=VishaHameed1\&show_icons=true\&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VishaHameed1\&layout=compact\&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=VishaHameed1\&theme=radical)
+![Streak](https://streak-stats.demolab.com/?user=VishaHameed1\&theme=radical)
 
 ---
 
@@ -66,7 +97,7 @@ Flask-based network analysis & port scanning system
 * 🏏 Captain/Winner – Cricket Championship
 * 🏸 District-Level Badminton Player
 * 🎤 Speech & Debate Winner
-* 💻 Built multiple AI & web projects
+* 💻 Built multiple AI, Web & Mobile applications
 
 ---
 
@@ -77,4 +108,4 @@ Flask-based network analysis & port scanning system
 
 ---
 
-⭐ *“Building intelligent systems, one project at a time.”*
+⭐ *“Turning ideas into intelligent systems.”*
