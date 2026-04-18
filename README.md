@@ -40,7 +40,7 @@
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
-| [**AiImageDetector**](https://github.com/VishaHameed1/AiImageDetector) | C#, ML.NET | 97.67% accuracy detecting AI vs real images |
+| [**AiImageDetector**](https://github.com/VishaHameed1/AiImageDetector) | C#, ML.NET | 88.67% accuracy detecting AI vs real images |
 | [**PropTrack-MERN**](https://github.com/VishaHameed1/PropTrack-MERN) | MongoDB, Express, React, Node.js | Full-stack real estate marketplace |
 | [**Smart-Recipe-Assistant**](https://github.com/VishaHameed1/Smart-Recipe-Assistant) | Kotlin, Gemini AI | Android app with voice mode |
 
@@ -63,11 +63,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VishaHameed1&theme=radical&no-frame=true&row=1&column=7" />
-</p>
 
 ---
 
@@ -82,12 +77,12 @@
 ## 💼 Professional Work
 
 ### 🏢 Hex Softwares (Internship)
-- 🤖 **AI Chatbot** - Customer support agent with Gemini 2.0 Flash
+- 🤖 **AI Chatbot** - Customer support agent with Gemini 2.5 Flash
 - 🎙️ **Virtual Assistant** - Voice-ready task automation
 - 🔍 **Fraud Detection** - Real-time anomaly detection system
 
 ### 🧠 AI/ML Projects
-- 🖼️ **AiImageDetector** - Deep learning image classification (97.67% accuracy)
+- 🖼️ **AiImageDetector** - Deep learning image classification (88.67% accuracy)
 - 💬 **SentimentAi** - Real-time NLP sentiment analysis
 - 🐱 **CNN Image Classifier** - Cat vs Dog classification with PyTorch
 - 📊 **Financial Risk Predictor** - XGBoost, LSTM, Customer Churn
