@@ -1,99 +1,63 @@
 # 👋 Hi, I'm Visha Hameed
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI/ML+Engineer+in+Progress;Gemini+2.0+Practitioner;Full+Stack+Developer;Building+Intelligent+Systems&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI/ML+Engineer;Full+Stack+Developer;Gemini+2.0+Practitioner;Building+Intelligent+Systems&center=true&width=500&height=45">
 </p>
 
-🎓 Computer Science Student @ IST | 🤖 AI/ML Engineer
-💡 Building real-world AI systems, full-stack apps, and agentic tools
+🎓 **Computer Science Student @ IST** | 🤖 **AI/ML Specialist**
+💡 *"Turning complex logic into intelligent, real-world applications."*
 
 ---
 
-## 🚀 About Me
-
-* 🌱 Specialized in **Generative AI (Gemini 2.0)** & **google-genai SDK**
-* 🔭 Currently building **Autonomous Agents & Fraud Detection Models**
-* 🎯 Goal: Become a **Lead AI Engineer**
-* ⚡ Strong in **problem-solving, technical leadership & scalable architecture**
-
----
-
-## 🧠 Tech Stack
-
-**💻 Languages**
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)
-![C#](https://img.shields.io/badge/C%23-purple?logo=csharp)
-
-**🤖 Generative AI & LLMs**
-![Gemini 2.0](https://img.shields.io/badge/Gemini_2.0-Flash-orange)
-![google-genai](https://img.shields.io/badge/google--genai-SDK-blue)
-![NLP](https://img.shields.io/badge/NLP-Natural_Language_Processing-green)
-
-**📊 AI / ML**
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-orange?logo=scikitlearn)
-![Pandas](https://img.shields.io/badge/Pandas-black?logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy)
-![PyTorch](https://img.shields.io/badge/PyTorch-red?logo=pytorch)
-
-**🌐 Development**
-![MERN](https://img.shields.io/badge/MERN-Stack-green)
-![Flask](https://img.shields.io/badge/Flask-black?logo=flask)
-![Git](https://img.shields.io/badge/Git-orange?logo=git)
+## 🚀 Professional Internship (Hex Softwares)
+Lately, I've been engineering high-impact AI solutions for my internship:
+* **[HexSoftwares_AI_Chatbot](https://github.com/VishaHameed1/HexSoftwares_AI_Chatbot):** Support-centric agent using **Gemini 2.0 Flash** & the new `google-genai` SDK.
+* **[HexSoftwares_Virtual_Assistant](https://github.com/VishaHameed1/HexSoftwares_Virtual_Assistant):** Voice-ready assistant for task automation & smart scheduling.
+* **[HexSoftwares_Fraud_Detection](https://github.com/VishaHameed1/HexSoftwares_Fraud_Detection):** Anomaly detection system identifying fraudulent transactions in real-time.
 
 ---
 
-## 📌 Featured Projects (Internship Highlights)
-
-### 🤖 Hex Softwares AI Series
-* **AI Support Agent (Gemini 2.0)**
-  A professional virtual agent using the latest `google-genai` SDK for high-accuracy NLP.
-* **Smart Virtual Assistant**
-  Task-oriented assistant for scheduling and personal automation.
-* **Fraud Detection System**
-  Anomaly detection in financial data using **Random Forest** and synthetic data modeling.
+## 🧠 AI, Machine Learning & Deep Learning
+* **[AiImageDetector](https://github.com/VishaHameed1/AiImageDetector):** Deep Learning system (ML.NET) distinguishing AI vs. Authentic images (97.67% Accuracy).
+* **[SentimentAi](https://github.com/VishaHameed1/SentimentAi):** Real-time NLP desktop app using C# & Model Builder.
+* **[cnn-image-classifier](https://github.com/VishaHameed1/cnn-image-classifier):** Cat vs. Dog classification using PyTorch & Data Augmentation.
+* **[Agentic-Ai](https://github.com/VishaHameed1/Agentic-Ai):** Autonomous reasoning & context management via agent-based architecture.
+* **[intermediate-ml](https://github.com/VishaHameed1/intermediate-ml):** Financial risk (XGBoost), Stock forecasting (LSTM), and Customer Churn analysis.
+* **[movie-recommendation-pro](https://github.com/VishaHameed1/movie-recommendation-pro):** Matrix factorization for personalized suggestions.
 
 ---
 
-### 🧠 Other AI & Machine Learning
-* **Sentiment AI (ML.NET)**
-  Real-time sentiment analysis desktop application.
-* **CNN Image Classifier**
-  PyTorch-based cat vs dog classifier with data augmentation.
-* **Smart Recipe Assistant**
-  Voice-integrated AI assistant using Gemini & TTS/STT.
+## 🌐 Full Stack & Mobile Development
+* **[PropTrack-MERN](https://github.com/VishaHameed1/PropTrack-MERN):** Real estate marketplace with dynamic filters and listing management.
+* **[Smart-Recipe-Assistant](https://github.com/VishaHameed1/Smart-Recipe-Assistant):** Android app with Gemini AI & Hands-Free Voice Mode.
+* **[ExpenseTrackerApp](https://github.com/VishaHameed1/ExpenseTrackerApp):** Kotlin-based personal finance manager with interactive analytics.
+* **[port_scanner](https://github.com/VishaHameed1/port_scanner):** Flask-based network security tool for traffic visualization.
+* **[CLINIC_PROJECT](https://github.com/VishaHameed1/CLINIC_PROJECT):** Full-cycle healthcare management system (PHP).
 
 ---
 
-### 🌐 Full Stack & Security
-* **PropTrack (MERN)**
-  Real estate platform with advanced filtering and management.
-* **Port Scanner (Flask)**
-  Network security tool with traffic visualization.
+## 💻 Desktop Applications & GUI
+* **[Airline-reservation-system](https://github.com/VishaHameed1/Airline-reservation-system-gui-based):** Comprehensive flight booking system in C# & C++.
+* **[ADV_VISUAL_PROGRAMMING](https://github.com/VishaHameed1/ADV_VISUAL_PROGRAMMING):** Advanced C# interface & logic implementations.
+
+---
+
+## 📈 Learning Journey
+* **[ai-ml-beginner-journey](https://github.com/VishaHameed1/ai-ml-beginner-journey):** 13-Project Roadmap covering Python logic to Multimodal Vision AI.
+* **[web-development-projects](https://github.com/VishaHameed1/web-development-projects):** Foundation in HTML, CSS, and DOM manipulation.
 
 ---
 
 ## 📊 GitHub Analytics
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VishaHameed1&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishaHameed1&layout=compact&theme=radical" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=VishaHameed1&theme=radical" height="160"/>
 </p>
 
 ---
 
 ## 🌐 Connect with Me
-
 <p align="center">
-  <a href="https://github.com/VishaHameed1">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github">
-  </a>
-  <a href="https://www.linkedin.com/in/visha-hameed-a23202373">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin">
-  </a>
+  <a href="https://github.com/VishaHameed1">![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)</a>
+  <a href="https://www.linkedin.com/in/visha-hameed-a23202373">![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)</a>
 </p>
-
----
-
-⭐ *"Turning ideas into intelligent, scalable systems."*
