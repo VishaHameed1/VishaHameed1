@@ -4,60 +4,117 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=AI/ML+Engineer;Full+Stack+Developer;Gemini+2.0+Practitioner;Building+Intelligent+Systems&center=true&width=500&height=45">
 </p>
 
-🎓 **Computer Science Student @ IST** | 🤖 **AI/ML Specialist**
-💡 *"Turning complex logic into intelligent, real-world applications."*
-
----
-
-## 🚀 Professional Internship (Hex Softwares)
-Lately, I've been engineering high-impact AI solutions for my internship:
-* **[HexSoftwares_AI_Chatbot](https://github.com/VishaHameed1/HexSoftwares_AI_Chatbot):** Support-centric agent using **Gemini 2.0 Flash** & the new `google-genai` SDK.
-* **[HexSoftwares_Virtual_Assistant](https://github.com/VishaHameed1/HexSoftwares_Virtual_Assistant):** Voice-ready assistant for task automation & smart scheduling.
-* **[HexSoftwares_Fraud_Detection](https://github.com/VishaHameed1/HexSoftwares_Fraud_Detection):** Anomaly detection system identifying fraudulent transactions in real-time.
-
----
-
-## 🧠 AI, Machine Learning & Deep Learning
-* **[AiImageDetector](https://github.com/VishaHameed1/AiImageDetector):** Deep Learning system (ML.NET) distinguishing AI vs. Authentic images (97.67% Accuracy).
-* **[SentimentAi](https://github.com/VishaHameed1/SentimentAi):** Real-time NLP desktop app using C# & Model Builder.
-* **[cnn-image-classifier](https://github.com/VishaHameed1/cnn-image-classifier):** Cat vs. Dog classification using PyTorch & Data Augmentation.
-* **[Agentic-Ai](https://github.com/VishaHameed1/Agentic-Ai):** Autonomous reasoning & context management via agent-based architecture.
-* **[intermediate-ml](https://github.com/VishaHameed1/intermediate-ml):** Financial risk (XGBoost), Stock forecasting (LSTM), and Customer Churn analysis.
-* **[movie-recommendation-pro](https://github.com/VishaHameed1/movie-recommendation-pro):** Matrix factorization for personalized suggestions.
-
----
-
-## 🌐 Full Stack & Mobile Development
-* **[PropTrack-MERN](https://github.com/VishaHameed1/PropTrack-MERN):** Real estate marketplace with dynamic filters and listing management.
-* **[Smart-Recipe-Assistant](https://github.com/VishaHameed1/Smart-Recipe-Assistant):** Android app with Gemini AI & Hands-Free Voice Mode.
-* **[ExpenseTrackerApp](https://github.com/VishaHameed1/ExpenseTrackerApp):** Kotlin-based personal finance manager with interactive analytics.
-* **[port_scanner](https://github.com/VishaHameed1/port_scanner):** Flask-based network security tool for traffic visualization.
-* **[CLINIC_PROJECT](https://github.com/VishaHameed1/CLINIC_PROJECT):** Full-cycle healthcare management system (PHP).
-
----
-
-## 💻 Desktop Applications & GUI
-* **[Airline-reservation-system](https://github.com/VishaHameed1/Airline-reservation-system-gui-based):** Comprehensive flight booking system in C# & C++.
-* **[ADV_VISUAL_PROGRAMMING](https://github.com/VishaHameed1/ADV_VISUAL_PROGRAMMING):** Advanced C# interface & logic implementations.
-
----
-
-## 📈 Learning Journey
-* **[ai-ml-beginner-journey](https://github.com/VishaHameed1/ai-ml-beginner-journey):** 13-Project Roadmap covering Python logic to Multimodal Vision AI.
-* **[web-development-projects](https://github.com/VishaHameed1/web-development-projects):** Foundation in HTML, CSS, and DOM manipulation.
-
----
-
-## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishaHameed1&show_icons=true&theme=radical" height="160"/>
-  <img src="https://streak-stats.demolab.com/?user=VishaHameed1&theme=radical" height="160"/>
+  <img src="https://komarev.com/ghpvc/?username=VishaHameed1&label=Profile%20Views&color=0e75b6&style=flat">
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 🛠️ Tech Stack
+
 <p align="center">
-  <a href="https://github.com/VishaHameed1">![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)</a>
-  <a href="https://www.linkedin.com/in/visha-hameed-a23202373">![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)</a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| [**AiImageDetector**](https://github.com/VishaHameed1/AiImageDetector) | C#, ML.NET | 97.67% accuracy detecting AI vs real images |
+| [**PropTrack-MERN**](https://github.com/VishaHameed1/PropTrack-MERN) | MongoDB, Express, React, Node.js | Full-stack real estate marketplace |
+| [**Smart-Recipe-Assistant**](https://github.com/VishaHameed1/Smart-Recipe-Assistant) | Kotlin, Gemini AI | Android app with voice mode |
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VishaHameed1&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishaHameed1&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishaHameed1&layout=compact&theme=radical&hide_border=true&langs_count=8" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VishaHameed1&theme=radical" width="80%" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VishaHameed1&theme=radical&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishaHameed1&theme=redical&hide_border=true" width="90%" />
+</p>
+
+---
+
+## 💼 Professional Work
+
+### 🏢 Hex Softwares (Internship)
+- 🤖 **AI Chatbot** - Customer support agent with Gemini 2.0 Flash
+- 🎙️ **Virtual Assistant** - Voice-ready task automation
+- 🔍 **Fraud Detection** - Real-time anomaly detection system
+
+### 🧠 AI/ML Projects
+- 🖼️ **AiImageDetector** - Deep learning image classification (97.67% accuracy)
+- 💬 **SentimentAi** - Real-time NLP sentiment analysis
+- 🐱 **CNN Image Classifier** - Cat vs Dog classification with PyTorch
+- 📊 **Financial Risk Predictor** - XGBoost, LSTM, Customer Churn
+
+### 🌐 Full Stack
+- 🏠 **PropTrack** - MERN real estate marketplace
+- 🍳 **Smart Recipe Assistant** - Android + Gemini AI
+- 💰 **Expense Tracker** - Kotlin finance manager
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/VishaHameed1">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/visha-hameed-a23202373">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:visha.hameed@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Turning complex logic into intelligent, real-world applications."</i>
 </p>
