@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Visha Hameed
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI/ML+Engineer;Full+Stack+Developer;Gemini+2.0+Practitioner;Building+Intelligent+Systems&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI/ML+Engineer;Full+Stack+Developer;Gemini+2.5+Practitioner;Building+Intelligent+Systems&center=true&width=500&height=45">
 </p>
 
 <p align="center">
