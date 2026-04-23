@@ -114,8 +114,14 @@ class VishaHameed:
 
 ---
 
-## 💼 Professional Work
+## 💼 Professional Experience
 
+### 🚀 Dual Internship: AI & Full-Stack Development
+**DeveloperHub & Hex Softwares** | *Present*
+
+* **At DeveloperHub:** I focus on the **production side**—taking MERN stack apps and making them "smart" by integrating ML pipelines.
+* **At Hex Softwares:** I focus on the **R&D side**—building specific Computer Vision (OpenCV) and Agentic AI (Gemini 2.5) models from scratch.
+  
 ### 🏢 Hex Softwares (Current Internship)
 | Project | Tech Stack | Status |
 |---------|------------|--------|
@@ -141,9 +147,8 @@ class VishaHameed:
 
 ---
 
-:
 
-🏆 **Achievements & Certifications**
+## 🏆 Achievements & Certifications
 🖼️ **AI Image Detection Expert** – Developed a deep learning system with 88.67% accuracy using ML.NET to distinguish between authentic and AI-generated images.
 
 🤖 **Agentic AI Specialist** – Built an autonomous reasoning chatbot using the Gemini 2.5 API with contextual decision-making capabilities.
