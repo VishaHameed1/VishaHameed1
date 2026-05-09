@@ -13,7 +13,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Detective.png" alt="Detective" width="30" /> The Dark Knight's Profile
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Detective.png" alt="Detective" width="30" /> The Dark Knight's Profile
 
 ```python
 class VishaHameed:
