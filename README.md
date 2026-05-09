@@ -1,4 +1,3 @@
-Here's your colorful, image-free GitHub profile README:
 
 ---
 
