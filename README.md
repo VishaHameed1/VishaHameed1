@@ -1,5 +1,5 @@
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" /> Hi, I'm Visha Hameed
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" /> Hi, I'm Visha Hameed
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=✨+AI/ML+Engineer+✨;⚡+Full+Stack+Developer+⚡;🎯+Computer+Vision+Specialist;🤖+Gemini+2.5+Practitioner;🚀+Building+Intelligent+Systems&center=true&width=600&height=45&color=ff69b4&vCenter=true&pause=1000&size=22">
