@@ -1,5 +1,5 @@
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" /> I'm Visha Hameed <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bat.png" alt="Bat" width="35" />
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" /> I'm Visha Hameed <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bat.png" alt="Bat" width="35" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=🦇+AI/ML+Engineer+🦇;🌑+Full+Stack+Developer+🌑;🎯+Computer+Vision+Specialist;🤖+Gemini+2.5+Practitioner;💀+I+am+Vengeance+💀;🌙+I+am+The+Night+🌙&center=true&width=700&height=45&color=000000&vCenter=true&pause=1000&size=22&background=00000000&center=true">
