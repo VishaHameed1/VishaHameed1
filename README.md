@@ -1,252 +1,199 @@
+# 💫 Visha Hameed
 
-# ✨ Hi, I'm Visha Hameed! ✨
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=⚡+AI/ML+Engineer;💻+Full+Stack+Developer;🎯+Computer+Vision+Specialist;🤖+Gemini+2.5+Practitioner;📦+25%2B+Production+Projects&center=true&width=600&height=45&pause=1000&size=21">
+</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=🚀+AI/ML+Engineer+🚀;💻+Full+Stack+Developer+💻;🎯+Computer+Vision+Specialist;🤖+Gemini+2.5+Practitioner;✨+25%2B+Projects+Completed;🌟+Code+is+My+Superpower+🌟&center=true&width=700&height=45&vCenter=true&pause=1000&size=22">
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=VishaHameed1&label=Profile+Views&color=FF6B6B&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/VishaHameed1?label=Followers&style=flat-square&color=4ECDC4">
-  <img src="https://img.shields.io/github/stars/VishaHameed1?label=Total+Stars&style=flat-square&color=FFE66D">
-</div>
-
----
-
-## 🌟 3D Tech Sphere
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/VishaHameed1/VishaHameed1/main/assets/3d-sphere.gif" width="500" alt="3D Tech Sphere"/>
-</div>
-
-> *"The best way to predict the future is to build it."*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VishaHameed1&label=PROFILE+VIEWS&color=0A66C2&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/VishaHameed1?label=FOLLOWERS&style=for-the-badge&color=0A66C2">
+  <img src="https://img.shields.io/github/stars/VishaHameed1?label=TOTAL+STARS&style=for-the-badge&color=FFB800">
+</p>
 
 ---
 
-## 👩‍💻 About Me
+## 📋 Executive Summary
 
 ```python
 class VishaHameed:
     def __init__(self):
-        self.name = "Visha Hameed"
-        self.location = "🌍 Pakistan"
-        self.role = "AI/ML Engineer & Full Stack Developer"
-        self.experience = "25+ Production Projects"
-        self.mission = "Building intelligent solutions that make a difference"
-        self.interests = ["🔬 Computer Vision", "🧠 Deep Learning", "💬 NLP", "🤖 LLMs"]
-        self.current_focus = "Facial Emotion Recognition & Age Detection"
-        self.tech_stack = ["Python", "C#", "PyTorch", "OpenCV", "Gemini 2.5", "React", "MERN"]
+        self.title = "AI/ML Engineer & Full Stack Developer"
+        self.location = "Pakistan"
+        self.projects = 25
+        self.specialties = ["Computer Vision", "Deep Learning", "LLMs", "NLP"]
+        self.stack = ["Python", "C#", "PyTorch", "OpenCV", "Gemini 2.5", "React", "Node.js"]
     
-    def daily_motto(self):
-        return "Code. Learn. Build. Repeat."
+    def current_focus(self):
+        return "Facial Emotion Recognition & Age Detection Systems"
     
-    def say_hi(self):
-        return "Thanks for visiting my profile! 🚀"
+    def mission(self):
+        return "Production-grade AI solutions with measurable impact"
 ```
 
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-</p>
-
-### 🤖 AI & Machine Learning
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white">
-  <img src="https://img.shields.io/badge/ML.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-</p>
-
-### 🌐 Web & Mobile Development
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-</p>
-
-### 🛠️ Tools & Platforms
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-</p>
+> *"Code. Learn. Build. Iterate."*
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 Technical Arsenal
 
-| Project | Tech Stack | Key Achievement |
-|---------|------------|-----------------|
-| [**AiImageDetector**](https://github.com/VishaHameed1/AiImageDetector) | C#, ML.NET | 88.67% accuracy - Detecting AI-generated images |
-| [**Facial Emotion Recognition**](https://github.com/VishaHameed1/hexsoftware_Emotion_Detection_using_AI) | Python, OpenCV | Real-time emotion detection |
-| [**Age & Gender Detection**](https://github.com/VishaHameed1/hexsoftware_Gender_Prediction_Age_Estimation) | Python, OpenCV | Age range & gender prediction |
-| [**Fraud Detection System**](https://github.com/VishaHameed1/HexSoftwares_Fraud_Detection) | Python, ML | Anomaly detection for transactions |
-| [**AI Chatbot**](https://github.com/VishaHameed1/HexSoftwares_AI_Chatbot) | Gemini 2.5, Python | Intelligent conversational AI |
-| [**PropTrack-MERN**](https://github.com/VishaHameed1/PropTrack-MERN) | MERN Stack | Property tracking platform |
-| [**Smart-Recipe-Assistant**](https://github.com/VishaHameed1/Smart-Recipe-Assistant) | Java, Gemini AI | AI-powered recipe recommendations |
+### Languages
+```
+▸ Python      ████████████████████░  95%
+▸ C#          ████████████████░░░░░  80%
+▸ JavaScript  ████████████████░░░░░  80%
+▸ TypeScript  ██████████████░░░░░░░  75%
+▸ Java        ████████████░░░░░░░░░  65%
+▸ Kotlin      ██████████░░░░░░░░░░░  55%
+```
+
+### AI/ML Stack
+| Category | Technologies |
+|----------|--------------|
+| Deep Learning | PyTorch, TensorFlow, Keras |
+| Computer Vision | OpenCV, YOLO, MediaPipe |
+| LLM | Gemini 2.5, HuggingFace, LangChain |
+| ML Ops | ML.NET, scikit-learn, ONNX |
+
+### Development Stack
+| Domain | Tools |
+|--------|-------|
+| Backend | Node.js, Express, Flask, .NET |
+| Frontend | React, Next.js, Tailwind |
+| Database | MongoDB, PostgreSQL, Firebase |
+| DevOps | Docker, Git, AWS, Vercel |
+
+---
+
+## 📁 Featured Projects
+
+| Project | Stack | Key Metric |
+|:--------|:------|:-----------|
+| [**AiImageDetector**](https://github.com/VishaHameed1/AiImageDetector) | C#, ML.NET | 88.67% accuracy |
+| [**Facial Emotion Recognition**](https://github.com/VishaHameed1/hexsoftware_Emotion_Detection_using_AI) | Python, OpenCV | Real-time inference |
+| [**Age & Gender Detection**](https://github.com/VishaHameed1/hexsoftware_Gender_Prediction_Age_Estimation) | Python, OpenCV | Multi-label classification |
+| [**Fraud Detection System**](https://github.com/VishaHameed1/HexSoftwares_Fraud_Detection) | Python, scikit-learn | Anomaly detection |
+| [**AI Chatbot**](https://github.com/VishaHameed1/HexSoftwares_AI_Chatbot) | Gemini 2.5, Python | Contextual responses |
+| [**PropTrack-MERN**](https://github.com/VishaHameed1/PropTrack-MERN) | MERN Stack | Full-stack CRUD |
 
 ---
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishaHameed1&show_icons=true&theme=radical&hide_border=true&count_private=true&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishaHameed1&theme=radical&hide_border=true&border_radius=10" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishaHameed1&layout=compact&theme=radical&hide_border=true&langs_count=10&border_radius=10" width="45%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=VishaHameed1&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" width="45%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VishaHameed1&theme=radical" width="80%" />
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishaHameed1&theme=rogue&hide_border=true&area=true" width="90%" />
-</div>
-
----
-
-## 💼 Current Experience
-
-### 🎯 Dual Internship
-
-| Company | Focus Area | Status |
-|---------|------------|--------|
-| **DeveloperHub** | ML Integration | 🔄 Active |
-| **Hex Softwares** | Computer Vision + Gemini AI | 1 Month |
-
-### ✅ Completed Projects at Hex Softwares
-
-| Project | Technology | Status |
-|---------|------------|--------|
-| 🤖 AI Chatbot | Gemini 2.5 Flash, Python | ✅ Completed |
-| 🎙️ Virtual Assistant | Python, Speech Recognition | ✅ Completed |
-| 🔍 Fraud Detection | ML, Anomaly Detection | ✅ Completed |
-| 🎭 Facial Emotion Recognition | OpenCV, Python | ✅ Completed |
-| 👤 Face Detection System | OpenCV, Haar Cascades | ✅ Completed |
-| 📊 Age & Gender Prediction | Computer Vision, Python | ✅ Completed |
-| 🌟 Personality Prediction | CV Analysis, OCEAN Model | ✅ Completed |
-
----
-
-## 🏆 Achievements
-
-| 🏆 Achievement | Details |
-|----------------|---------|
-| 🎯 **AI Image Detection Expert** | 88.67% accuracy milestone |
-| 🚀 **Agentic AI Specialist** | Built autonomous reasoning with Gemini 2.5 |
-| 💻 **Certified MERN Stack Developer** | Full-stack development mastery |
-| 📚 **25+ AI/ML Projects** | Diverse portfolio of intelligent systems |
-| 🎓 **Academic Excellence** | Top performer at IST |
-
----
-
-## ⏰ Time Distribution
-
-```text
-🐍 Python        8 hrs 45 mins  ████████████░░░░░░░░░   45.2%
-🎯 C#            4 hrs 30 mins  ██████░░░░░░░░░░░░░░░   23.1%
-🌐 JavaScript    3 hrs 15 mins  ████░░░░░░░░░░░░░░░░░   16.8%
-☕ Java          1 hr 45 mins   ██░░░░░░░░░░░░░░░░░░░    9.0%
-🔧 Other         1 hr 15 mins   █░░░░░░░░░░░░░░░░░░░░    5.9%
-```
-
----
-
-## 🎯 2026 Goals
-
-- [ ] 🚀 Contribute to 15+ open source projects
-- [ ] 🤖 Build a production-grade LLM application
-- [ ] ⭐ Achieve 500+ GitHub followers
-- [ ] 📜 Complete Google's Advanced ML certification
-- [ ] 💼 Launch a SaaS product
-- [ ] ✍️ Write 25+ technical blog posts
-
----
-
-## 🤝 Let's Connect
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VishaHameed1&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=0A66C2&title_color=FFFFFF" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishaHameed1&theme=dark&hide_border=true&background=0D1117&stroke=0A66C2&ring=0A66C2&fire=FFB800" width="48%">
+</p>
 
 <p align="center">
-  <a href="https://github.com/VishaHameed1">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/visha-hameed-a23202373">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:visha.hameed@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://twitter.com/VishaHameed1">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
-  <a href="https://www.kaggle.com/vishahameed">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishaHameed1&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF" width="45%">
+  <img src="https://github-profile-trophy.vercel.app/?username=VishaHameed1&theme=darkhub&no-frame=true&row=2&column=4" width="45%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishaHameed1&theme=github-dark&hide_border=true&bg_color=0D1117&color=FFFFFF&line=0A66C2&point=FFB800" width="85%">
 </p>
 
 ---
 
-## 📝 Recent Activity
+## 💼 Current Engagement
 
-<!-- RECENT_ACTIVITY:start -->
-- 🚀 Released [Facial Emotion Recognition](https://github.com/VishaHameed1/hexsoftware_Emotion_Detection_using_AI)
-- 🔧 Enhanced [Age & Gender Detection](https://github.com/VishaHameed1/hexsoftware_Gender_Prediction_Age_Estimation)
-- 🎯 [AiImageDetector](https://github.com/VishaHameed1/AiImageDetector) achieved 88.67% accuracy
-- 🛡️ Improved security in [PropTrack-MERN](https://github.com/VishaHameed1/PropTrack-MERN)
-- 💬 Deployed [AI Chatbot](https://github.com/VishaHameed1/HexSoftwares_AI_Chatbot) with Gemini 2.5
-<!-- RECENT_ACTIVITY:end -->
+### Dual Track Internship
 
----
+| Program | Domain | Status |
+|:--------|:-------|:------:|
+| DeveloperHub | ML Integration | `ACTIVE` |
+| Hex Softwares | Computer Vision + Gemini AI | `1 MONTH` |
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" />
-</div>
+### Completed Deliverables
 
----
-
-<div align="center">
-  <i>"Code is poetry written in logic. Make every line count."</i><br>
-  <b>- Visha Hameed</b>
-</div>
+```
+✓ AI Chatbot (Gemini 2.5 Flash)
+✓ Virtual Assistant (Speech Recognition)
+✓ Fraud Detection (Anomaly Detection)
+✓ Facial Emotion Recognition (OpenCV)
+✓ Face Detection (Haar Cascades)
+✓ Age & Gender Prediction (CNN)
+✓ Personality Prediction (OCEAN Model)
+```
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling"/>
-</div>
+## 🏅 Performance Metrics
 
-<div align="center">
-  <b>🌟 Thanks for visiting! Star my repos to support my work! 🌟</b>
-</div>
+| Achievement | Value |
+|:------------|------:|
+| AI Detection Accuracy | 88.67% |
+| Production Projects | 25+ |
+| GitHub Stars | `INCREASING` |
+| Technical Certifications | MERN Stack |
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Happy+Coding!;Keep+Building!;Stay+Awesome!&center=true&width=400&height=30&size=18">
-</div>
+---
+
+## ⏳ Time Allocation
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│ Python      ████████████████████████████████████░░░░  88%   │
+│ C#          ████████████████████░░░░░░░░░░░░░░░░░░░  58%   │
+│ JavaScript  ████████████████████░░░░░░░░░░░░░░░░░░░  55%   │
+│ Java        ████████████████░░░░░░░░░░░░░░░░░░░░░░  45%   │
+│ DevOps      ████████████████░░░░░░░░░░░░░░░░░░░░░░  42%   │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🎯 Q1 2026 Roadmap
+
+- [ ] Open source contributions → 15 repos
+- [ ] Production LLM application → Launch
+- [ ] GitHub followers → 500+
+- [ ] Google Advanced ML → Certification
+- [ ] Technical blogs → 25 published
+- [ ] SaaS product → MVP release
+
+---
+
+## 🔗 Professional Network
+
+<p align="center">
+  <a href="https://github.com/VishaHameed1"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/visha-hameed-a23202373"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:visha.hameed@example.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://twitter.com/VishaHameed1"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://www.kaggle.com/vishahameed"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
+</p>
+
+---
+
+## 📝 Activity Log
+
+```bash
+$> git log --oneline --author="VishaHameed1" -5
+
+feat: Released Facial Emotion Recognition module
+feat: Enhanced Age & Gender Detection accuracy
+perf: AiImageDetector reached 88.67% accuracy
+security: Improved PropTrack-MERN authentication
+feat: Deployed AI Chatbot with Gemini 2.5
+```
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+</p>
+
+<p align="center">
+  <i>// Code is poetry. Engineer with intention.</i><br>
+  <b>Visha Hameed</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&animation=twinkling"/>
+</p>
+
+<p align="center">
+  <b>🚀 Production-ready AI. Full-stack excellence. Let's build.</b>
+</p>
 ```
