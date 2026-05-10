@@ -166,17 +166,7 @@ class VishaHameed:
 
 ---
 
-## 📝 Activity Log
 
-```bash
-$> git log --oneline --author="VishaHameed1" -5
-
-feat: Released Facial Emotion Recognition module
-feat: Enhanced Age & Gender Detection accuracy
-perf: AiImageDetector reached 88.67% accuracy
-security: Improved PropTrack-MERN authentication
-feat: Deployed AI Chatbot with Gemini 2.5
-```
 
 ---
 
