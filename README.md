@@ -4,8 +4,7 @@
   <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/f227f706-a827-403c-8a89-df6e81044c9a" />
 
 
-  <img src="https://readme-typing-svg.demolab.com/?lines=⚡+AI/ML+Engineer;💻+Full+Stack+Developer;🎯+Computer+Vision+Specialist;🤖+Gemini+2.5+Practitioner;📦+25%2B+Production+Projects&center=true&width=600&height=45&pause=1000&size=21">
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VishaHameed1&label=PROFILE+VIEWS&color=0A66C2&style=for-the-badge" />
