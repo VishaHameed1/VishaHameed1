@@ -1,0 +1,38 @@
+<!-- Save as sphere.html and open in browser, then record as GIF -->
+<script type="importmap">
+  {"imports": {"three": "https://unpkg.com/three@0.128.0/build/three.module.js"}}
+</script>
+<script type="module">
+  import * as THREE from 'three';
+  const scene = new THREE.Scene();
+  scene.background = new THREE.Color(0x0a0a2a);
+  const camera = new THREE.PerspectiveCamera(75, 500/500, 0.1, 1000);
+  const renderer = new THREE.WebGLRenderer({antialias: true});
+  renderer.setSize(500, 500);
+  document.body.appendChild(renderer.domElement);
+  const geometry = new THREE.SphereGeometry(1, 64, 64);
+  const textureLoader = new THREE.TextureLoader();
+  const materials = [
+    'https://threejs.org/examples/textures/planets/earth_atmos_2048.jpg',
+    'https://threejs.org/examples/textures/planets/earth_normal_2048.jpg'
+  ];
+  const material = new THREE.MeshStandardMaterial({
+    map: textureLoader.load('https://threejs.org/examples/textures/planets/earth_atmos_2048.jpg'),
+    roughness: 0.5,
+    metalness: 0.1
+  });
+  const sphere = new THREE.Mesh(geometry, material);
+  scene.add(sphere);
+  const light = new THREE.DirectionalLight(0xffffff, 1);
+  light.position.set(5, 3, 5);
+  scene.add(light);
+  scene.add(new THREE.AmbientLight(0x404040));
+  camera.position.z = 3;
+  function animate() {
+    requestAnimationFrame(animate);
+    sphere.rotation.y += 0.005;
+    sphere.rotation.x += 0.002;
+    renderer.render(scene, camera);
+  }
+  animate();
+</script>
