@@ -1,17 +1,25 @@
-﻿
+
 # ✨ Hi, I'm Visha Hameed! ✨
 
-
-
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=🚀+AI/ML+Engineer+🚀;💻+Full+Stack+Developer+💻;🎯+Computer+Vision+Specialist;🤖+Gemini+2.5+Practitioner;✨+25%2B+Projects+Completed;🌟+Code+is+My+Superpower+🌟&center=true&width=700&height=45&vCenter=true&pause=1000&size=22">
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=VishaHameed1&label=Profile+Views&color=FF6B6B&style=flat-square" />
   <img src="https://img.shields.io/github/followers/VishaHameed1?label=Followers&style=flat-square&color=4ECDC4">
   <img src="https://img.shields.io/github/stars/VishaHameed1?label=Total+Stars&style=flat-square&color=FFE66D">
-</p>
+</div>
+
+---
+
+## 🌟 3D Tech Sphere
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VishaHameed1/VishaHameed1/main/assets/3d-sphere.gif" width="500" alt="3D Tech Sphere"/>
+</div>
+
+> *"The best way to predict the future is to build it."*
 
 ---
 
@@ -35,8 +43,6 @@ class VishaHameed:
     def say_hi(self):
         return "Thanks for visiting my profile! 🚀"
 ```
-
-> *"The best way to predict the future is to build it."*
 
 ---
 
@@ -103,27 +109,27 @@ class VishaHameed:
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VishaHameed1&show_icons=true&theme=radical&hide_border=true&count_private=true&border_radius=10" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishaHameed1&theme=radical&hide_border=true&border_radius=10" width="48%" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishaHameed1&layout=compact&theme=radical&hide_border=true&langs_count=10&border_radius=10" width="45%" />
   <img src="https://github-profile-trophy.vercel.app/?username=VishaHameed1&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" width="45%" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VishaHameed1&theme=radical" width="80%" />
-</p>
+</div>
 
 ---
 
 ## 📈 Contribution Activity
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishaHameed1&theme=rogue&hide_border=true&area=true" width="90%" />
-</p>
+</div>
 
 ---
 
@@ -133,7 +139,7 @@ class VishaHameed:
 
 | Company | Focus Area | Status |
 |---------|------------|--------|
-| **DeveloperHub** |  ML Integration | 🔄 Active |
+| **DeveloperHub** | ML Integration | 🔄 Active |
 | **Hex Softwares** | Computer Vision + Gemini AI | 1 Month |
 
 ### ✅ Completed Projects at Hex Softwares
@@ -219,29 +225,28 @@ class VishaHameed:
 
 ---
 
-<p align="center">
+<div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" />
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
   <i>"Code is poetry written in logic. Make every line count."</i><br>
   <b>- Visha Hameed</b>
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling"/>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <b>🌟 Thanks for visiting! Star my repos to support my work! 🌟</b>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Happy+Coding!;Keep+Building!;Stay+Awesome!&center=true&width=400&height=30&size=18">
-</p>
+</div>
 ```
-
