@@ -80,12 +80,12 @@ class VishaHameed:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishaHameed1&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=0A66C2&title_color=FFFFFF" width="48%">
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishaHameed1&theme=dark&hide_border=true&background=0D1117&stroke=0A66C2&ring=0A66C2&fire=FFB800" width="48%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishaHameed1&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF" width="45%">
+ 
   <img src="https://github-profile-trophy.vercel.app/?username=VishaHameed1&theme=darkhub&no-frame=true&row=2&column=4" width="45%">
 </p>
 
