@@ -1,9 +1,7 @@
-﻿# 🎨 Colorful Visha Hameed Profile (No Gotham/Batman)
-
-Here's your **vibrant, colorful** GitHub profile without any Batman/Gotham references:
-
-```markdown
+﻿
 # ✨ Hi, I'm Visha Hameed! ✨
+
+```
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=🚀+AI/ML+Engineer+🚀;💻+Full+Stack+Developer+💻;🎯+Computer+Vision+Specialist;🤖+Gemini+2.5+Practitioner;✨+25%2B+Projects+Completed;🌟+Code+is+My+Superpower+🌟&center=true&width=700&height=45&vCenter=true&pause=1000&size=22">
