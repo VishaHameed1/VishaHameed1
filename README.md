@@ -1,7 +1,7 @@
 # 💫 Visha Hameed
 
 <p align="center">
-https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWR1cnNtdm9lNThic3U0b2U0cmt0cWRtN2d1b2lsZWZ4M2NsZTEzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/e6dc1e89-f152-479f-8624-b9b494f82393" />
 
 
 <p align="center">
