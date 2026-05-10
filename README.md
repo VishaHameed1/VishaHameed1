@@ -1,6 +1,8 @@
 # 💫 Visha Hameed
 
 <p align="center">
+  <img width="800" height="800" alt="me" src="https://github.com/user-attachments/assets/6a735a69-dc31-4d48-80e5-d192ff880c2c" />
+
   <img src="https://readme-typing-svg.demolab.com/?lines=⚡+AI/ML+Engineer;💻+Full+Stack+Developer;🎯+Computer+Vision+Specialist;🤖+Gemini+2.5+Practitioner;📦+25%2B+Production+Projects&center=true&width=600&height=45&pause=1000&size=21">
 </p>
 
