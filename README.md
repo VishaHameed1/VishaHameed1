@@ -133,8 +133,8 @@ class VishaHameed:
 
 | Company | Focus Area | Status |
 |---------|------------|--------|
-| **DeveloperHub** | MERN Stack + ML Integration | 🔄 Active |
-| **Hex Softwares** | Computer Vision + Gemini AI | 🔄 Active |
+| **DeveloperHub** |  ML Integration | 🔄 Active |
+| **Hex Softwares** | Computer Vision + Gemini AI | 1 Month |
 
 ### ✅ Completed Projects at Hex Softwares
 
