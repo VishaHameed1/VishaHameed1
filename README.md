@@ -280,7 +280,7 @@ class VishaHameed:
 
 | Institution | Degree | Year | Score |
 |:------------|:-------|:-----|:------|
-| The Institute of Space Technology, Islamabad | B.S. Computer Science | 2023 – 2027 | CGPA 3.47 |
+| The Institute of Space Technology, Islamabad | B.S. Computer Science | 2023 – 2027 | Grade A |
 | KRL Girls College, Islamabad | Higher Secondary School Certificate (ICS) | 2021 – 2023 | — |
 
 ---
